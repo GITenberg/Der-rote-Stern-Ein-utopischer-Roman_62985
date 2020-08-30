@@ -1,5 +1,5 @@
 _repo: Der-rote-Stern-Ein-utopischer-Roman_62985
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Zur Mühlen, Hermynia
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '52212'
     url: http://www.gutenberg.org/2009/agents/52212
     wikipedia: https://de.wikipedia.org/wiki/Hermynia_Zur_M%C3%BChlen
+covers:
+- cover_type: archival
+  image_path: 62985-h/images/cover.jpg
 creator:
   author:
     agent_name: Bogdanov, A. (Aleksandr)
@@ -30,6 +33,8 @@ creator:
     - https://de.wikipedia.org/wiki/Alexander_Alexandrowitsch_Bogdanow
     - https://en.wikipedia.org/wiki/Alexander_Bogdanov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62985#Der-rote-Stern-Ein-utopischer-Roman
 gutenberg_issued: '2020-08-20'
 gutenberg_type: Text
 identifiers:
