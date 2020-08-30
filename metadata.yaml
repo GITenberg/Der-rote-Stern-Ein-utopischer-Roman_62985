@@ -1,0 +1,49 @@
+_repo: Der-rote-Stern-Ein-utopischer-Roman_62985
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Zur Mühlen, Hermynia
+    aliases:
+    - Zur Muhlen, Hermynia
+    - Zur Mühlen, Herminia
+    - Mühlen, Hermynia zur
+    birthdate: 1883
+    deathdate: 1951
+    gutenberg_agent_id: '52212'
+    url: http://www.gutenberg.org/2009/agents/52212
+    wikipedia: https://de.wikipedia.org/wiki/Hermynia_Zur_M%C3%BChlen
+creator:
+  author:
+    agent_name: Bogdanov, A. (Aleksandr)
+    aliases:
+    - Bogdanov, Aleksandr Aleksandrovich
+    - Bogdanow, Alexander
+    - Malinovskii, Aleksandr Aleksandrovich
+    - Богданов, Александр Александрович
+    - Богданов, А. (Александр)
+    - Malinovski, Alexander Alexandrowitsch
+    birthdate: 1873
+    deathdate: 1928
+    gutenberg_agent_id: '52211'
+    url: http://www.gutenberg.org/2009/agents/52211
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Alexander_Alexandrowitsch_Bogdanow
+    - https://en.wikipedia.org/wiki/Alexander_Bogdanov
+description: ''
+gutenberg_issued: '2020-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62985'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Utopian fiction'
+- !lcc 'PG'
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- GITenberg
+title: 'Der rote Stern: Ein utopischer Roman'
+url: http://www.gutenberg.org/ebooks/62985
